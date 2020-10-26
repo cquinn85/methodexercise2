@@ -1,0 +1,13 @@
+C:\Users\cequi\repos\methodExercise2\methodExercise2\bin\Debug\netcoreapp3.1\methodExercise2.exe
+C:\Users\cequi\repos\methodExercise2\methodExercise2\bin\Debug\netcoreapp3.1\methodExercise2.deps.json
+C:\Users\cequi\repos\methodExercise2\methodExercise2\bin\Debug\netcoreapp3.1\methodExercise2.runtimeconfig.json
+C:\Users\cequi\repos\methodExercise2\methodExercise2\bin\Debug\netcoreapp3.1\methodExercise2.runtimeconfig.dev.json
+C:\Users\cequi\repos\methodExercise2\methodExercise2\bin\Debug\netcoreapp3.1\methodExercise2.dll
+C:\Users\cequi\repos\methodExercise2\methodExercise2\bin\Debug\netcoreapp3.1\methodExercise2.pdb
+C:\Users\cequi\repos\methodExercise2\methodExercise2\obj\Debug\netcoreapp3.1\methodExercise2.csprojAssemblyReference.cache
+C:\Users\cequi\repos\methodExercise2\methodExercise2\obj\Debug\netcoreapp3.1\methodExercise2.AssemblyInfoInputs.cache
+C:\Users\cequi\repos\methodExercise2\methodExercise2\obj\Debug\netcoreapp3.1\methodExercise2.AssemblyInfo.cs
+C:\Users\cequi\repos\methodExercise2\methodExercise2\obj\Debug\netcoreapp3.1\methodExercise2.csproj.CoreCompileInputs.cache
+C:\Users\cequi\repos\methodExercise2\methodExercise2\obj\Debug\netcoreapp3.1\methodExercise2.dll
+C:\Users\cequi\repos\methodExercise2\methodExercise2\obj\Debug\netcoreapp3.1\methodExercise2.pdb
+C:\Users\cequi\repos\methodExercise2\methodExercise2\obj\Debug\netcoreapp3.1\methodExercise2.genruntimeconfig.cache
